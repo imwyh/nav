@@ -93,6 +93,12 @@ var bd = {
 					"link": "https://www.w3school.com.cn/",
 					"icon": "",
 					"span": "W3"
+				},
+				{
+					"name": "MDI",
+					"link": "https://materialdesignicons.com/",
+					"icon": "vector-square",
+					"span": ""
 				}
 			]
 		},
