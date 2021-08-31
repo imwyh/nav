@@ -2,7 +2,7 @@
 一个响应式可自定义的简洁导航
 
 
-<img src="https://github.com/imwyh/nav/blob/main/IMG/img1.jpg" width="250">     <img src="https://github.com/imwyh/nav/blob/main/IMG/img2.png" width="700">
+<img src="https://github.com/imwyh/nav/blob/main/IMG/img1.jpg" width="250">     <img src="https://github.com/imwyh/nav/blob/main/IMG/img2.png" width="500">
 
 ## demo
 https://blog.fanmiao.site/nav
