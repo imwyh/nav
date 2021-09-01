@@ -202,14 +202,19 @@ body {
 	margin: 0.5em 0.25em;
 	padding: 0.5em 0.75em;
 	border-radius: 4px;
-	transition: background-color .5s;
-	-webkit-transition: background-color .5s;
+	transition: .5s;
+	-webkit-transition: .5s;
 	height: 24px;
 }
 
 #footer .page:hover {
 	cursor: pointer;
 	background-color: var(--main-color);
+	box-shadow: 0 0 7px grey;
+}
+
+#footer .active {
+    background-color: #AAA;
 }
 
 #background {
