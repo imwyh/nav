@@ -136,6 +136,7 @@ body {
 	overflow: -moz-scrollbars-none;
 	width: calc(80vw - 40px);
 	margin-right: calc(20vw);
+	scrollbar-width: none;
 }
 
 #main_nav .nav_parts::-webkit-scrollbar {
@@ -183,6 +184,7 @@ body {
 	overflow: scroll;
 	-ms-overflow-style: none;
 	overflow: -moz-scrollbars-none;
+	scrollbar-width: none;
 }
 
 #footer::-webkit-scrollbar {
