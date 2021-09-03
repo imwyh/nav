@@ -37,7 +37,6 @@ body {
 
 #main {
 	width: 80%;
-	min-width: 180px;
 	z-index: 1;
 	margin: 0 auto;
 	padding: 10px;
