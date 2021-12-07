@@ -9,9 +9,21 @@ https://blog.fanmiao.site/nav
 
 ## 使用方法
 
-编辑bd.js中的json，添加自定义导航页面或者搜索页面。
+1.部署到自己服务器：
+
+下载源码，编辑bd.js中的json，添加自定义导航页面或者搜索页面。
 
 最终JS根据bd内容生成完整网页。
+
+2.在线部署：
+
+点击FORK到自己仓库。
+
+转到：https://vercel.com/ ，使用github账号登陆。
+
+新建NEW PROJECT，IMPORT此项目。因为是纯静态网页，语言选择others。
+
+DEPLOY完成后VISIT该页面。
 
 ## 技巧
 
