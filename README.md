@@ -5,7 +5,7 @@
 <img src="https://github.com/imwyh/nav/blob/main/IMG/img1.jpg" width="250">     <img src="https://github.com/imwyh/nav/blob/main/IMG/img2.png" width="500">
 
 ## demo
-https://blog.fanmiao.site/nav
+https://nav-eight.vercel.app/
 
 ## 使用方法
 
